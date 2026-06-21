@@ -58,6 +58,7 @@ Through this project, I practiced:
 ## 📄 Disclaimer
 
 This project is created for educational and practice purposes only. Netflix is a trademark of Netflix, Inc.
+
 ---
 
 ## 🌐 Connect With Me
